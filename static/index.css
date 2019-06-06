@@ -1,0 +1,33 @@
+html{
+	font-size: 10px;
+}
+.image-wrapper{
+	display: flex;
+	flex-wrap: wrap;
+}
+.image-container{
+	width: calc(20% - 2px);
+	position: relative;
+}
+.image-search{
+	width: 100%;
+	padding: 10px 0 10px 10px;
+}
+.image-search>label{
+	margin-right: 10px;
+	font-size: 1.17rem;
+}
+.image-description{
+	padding: 10px;
+}
+.img{
+	width: 100%;
+	height: 32rem
+}
+.img-cont{
+    margin: 10px 0 0 15px;
+    max-width: 180px;
+}
+
+
+
